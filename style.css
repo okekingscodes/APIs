@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    width: 80%;
+    margin: 10px 10%;
+}
+h1 {
+    
+    text-align: center;
+}
+button{
+    background: blue;
+    margin: 20px 40px;
+    padding: 10px 20px;
+    color: #fff;
+    font-size: 25px;
+    cursor: pointer;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+}
+h4 {
+    font-size: 35px;
+    margin: 20px 35px;
+}
+.listing {
+    padding: 10px;
+}
+ul li {
+    list-style: none;
+    padding-left: 20px;
+    margin: 5px 15px;
+    font-size: 25px;
+}
